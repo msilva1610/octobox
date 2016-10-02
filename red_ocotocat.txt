@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--  1 Maurilio  staff   66  2 Out 11:59 octocat.txt
+-rw-r--r--  1 Maurilio  staff  131  2 Out 12:11 blue_octocat.txt
+-rw-r--r--  1 Maurilio  staff    0  2 Out 12:12 red_ocotocat.txt
